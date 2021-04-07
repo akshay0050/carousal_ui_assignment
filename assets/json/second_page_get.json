@@ -1,0 +1,28 @@
+{
+			"title": "Fames volupat.",
+			"description": "Nam",
+
+			"points": [
+				{
+					"image": "https://static3.bigstockphoto.com/9/4/3/large1500/349968922.jpg",
+					"subpoints": [
+						"Mus sed at ligula.",
+						"Tortor sem.",
+						"Quam in nunc nibh mattis in diam."
+					]
+				},
+				{
+					"image": "https://static3.bigstockphoto.com/9/4/3/large1500/349968922.jpg",
+					"subpoints": [
+						"A sodales et purus leo.",
+						"Est lorem.",
+						"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Semper amet viverra non justo a morbi blandit.",
+						"Lacinia nunc curabitur velit.",
+						"Lacinia non.",
+						"Diam ac molestie.",
+						"Volutpat id sed."
+					]
+				}
+
+			]
+}
